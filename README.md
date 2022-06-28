@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Pedro Leal
 - 🌱 I’m currently learning JavaScript
+- 🏫 Student of IFC Campus Araquari
 - 📫 How to reach me pedro1info3ifc@gmail.com
 
 <!---
